@@ -14,3 +14,9 @@ wheels/
 
 # Archivos de configuración de VS Code
 .vscode/
+
+# Excluir el archivo pesado de la PC
+datos_contratacion.csv
+
+# Pero permitir que suba el comprimido
+!datos_secop.parquet
